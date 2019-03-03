@@ -1,0 +1,164 @@
+<TEI>
+    <teiHeader>  
+        <fileDesc>
+            <titleStmt>
+               <title>ЕЛИСЕЙ, ИЛИ РАЗДРАЖЕННЫЙ ВАХК<title>
+            </titleStmt>
+            <respStmt>
+                <persName>Александра Живаева</persName>
+                <resp>Создание TEI документа, выделение в тексте персоналий/мест</resp>
+            </respStmt>
+         </fileDesc>
+		 <profileDesc>
+		    <psrticDesc>
+		        <listPerson type="literary">
+                    <person xml:id="A1">
+                        <persName>ямщик</persName>
+                    </person>
+                    <person xml:id="B2">
+                        <persName>чумак</persName>
+                    </person>
+					<person xml:id="C3">
+					    <persName>Вакх</persName>
+					</person>
+					<person xml:id="D4">
+					    <persName>Силен</persName>
+					</person>
+					<person xml:id="E5">
+					    <persName>капрал</persName>
+				    </person>
+                </listPerson>
+			</particDesc>
+		</profilDesc>	
+    </teiHeader>
+    <text>	
+        Итак, полезнее мне, мнится, самому
+        Последовати их рассудку и уму.
+
+        Уже напря́гнув я мои малейши силы
+        И следую певцам, которые мне милы;
+        Достигну ли конца, иль пусть хотя споткнусь,
+        Я оным буду прав, что я люблю их вкус;
+        Кто ж будет хулить то, и тем я отпущаю;
+        И к повести своей я мысли обращаю.
+
+        Уж <person xml:id="C3"><persName>Вакх</persName></person> пияного увидел <person xml:id="A1"><persName>ямщика</persName></person>,
+        В <person xml:id="C3"><persName>нем</persName></person> радость разлилась по сердцу, как река;
+        Уж мысленно себе успех свой предвещает;
+        К <person xml:id="D4"><persName>Силену</persName></person> обратясь, и так <person xml:id="D4"><persName>ему</persName></person> вещает:
+        «Не се ли вышния судьбы теперь предел,
+        Что я уж то нашел, чего искать хотел?
+        Детина оный дюж мне кажется по взору,
+        На <person xml:id="A1"><persName>нем</persName></person> созижду я надежды всей подпору,
+        <person xml:id="A1"><persName>Он</persName></person> кажется на то как будто и рожден,
+        Что будет всякий <person xml:id="A1"><persName>им</persName></person> ярыга побежден
+        И <person xml:id="A1"><persName>он</persName></person> меня в моей печали не покинет,
+        <person xml:id="A1"><persName>Он</persName></person> всё то выпьет, что лишь глазом ни окинет.
+        Я весь оставлю страх, чем был я возмущен;
+        Уже я радуюсь, как будто отомщен:
+        Не ясно ли моя мне видится победа,
+        Когда <person xml:id="A1"><persName>возлюбленник</persName></person> мой пьян и до обеда?
+        И ежели <person xml:id="D4"><persName>тебя</persName></person> еще смущает страх,
+        Воззри, то у <person xml:id="A1"><persName>него</persName></person> всё видно на очах;
+        Ланиты то его являют мне зарделы,
+        Что, если попущу, превзо́йдет <person xml:id="A1"><persName>он</persName></person> пределы
+        И выпьет более вина, чем выпьешь <person xml:id="D4"><persName>ты</persName></person>».
+        <person xml:id="D4"><persName>Силен</persName></person> было сие почел за пустоты;
+        Но <person xml:id="A1"><persName>сей пияница Силена</persName></person> в том уверил,
+        Что <person xml:id="A1"><persName>он</persName></person> <person xml:id="D4"><persName>его</persName></person> провор своим аршином мерил;
+        <person xml:id="A1"><persName>Он</persName></person>, за ворот схватя за стойкой <person xml:id="B2"><persName>чумака</persName></person>,
+        Вскричал: «Подай вина! иль дам я тумака.
+        Подай, иль я <person xml:id="B2"><persName>тебе</persName></person> нос до крови расквашу!»
+        При сем <person xml:id="A1"><persName>он</persName></person> указал рукой пивную чашу;
+        «В нее налей <person xml:id="B2"><persName>ты</persName></person> мне анисной за алтын
+        Или я подопру <person xml:id="B2"><persName>тобой</persName></person> кабацкий тын».
+        <person xml:id="B2"><persName>Чумак</persName></person> затрепетал при смерти очевидной,
+        А <person xml:id="C3"><persName>Вакх</persName></person> вскричал: «<person xml:id="A1"><persName>О мой питомец непостыдный</persName></person>!
+
+        <person xml:id="A1"><persName>Тобой</persName></person> я все мои напасти прекращу,
+        <person xml:id="A1"><persName>Тобой</persName></person> откупщикам я грозно отомщу.
+        Противу прать меня весь род их перестанет,
+        Как купно воевать со мной кулак твой станет.
+        Польются не ручьи здесь пива, но моря».
+        Вещает тако <person xml:id="C3"><persName>Вакх</persName></person>, отмщением горя.
+
+        Меж тем <person xml:id="A1"><persName>ямщик</persName></person> свою уж чашу наливает,
+        Единым духом всю досу́ха выпивает,
+        И выпив, ею в лоб ударил <person xml:id="B2"><persName>чумака</persName></person>:
+        Удар сей раздался в пространстве кабака;
+        Попадали с полиц ковши, бутылки, плошки,
+        Черепья чаши сей все брызнули в окошки,
+        Меж стойкой и окном разрушился предел,
+        Как дождь и град, смесясь, из тучи полетел,
+        Так плошечны тогда с стеклянными обломки
+        Летели возвестить его победы громки.
+        А бедненький <person xml:id="B2"><persName>чумак</persName></person> на стойку прикорнул;
+        <person xml:id="B2"><persName>Ошалоумленный</persName></person>, кричит там: «Караул!
+        Аи, братцы, грабят! бьют!» Сам вверх лежит спиною,
+        Сие досадою казалося <person xml:id="A1"><persName>герою</persName></person>;
+        <person xml:id="A1"><persName>Он</persName></person> руку в ярости за стойку запустил
+        И ею <person xml:id="B2"><persName>чумака</persName></person> за порты ухватил,
+        Которых если бы худой гайтан не лопнул,
+        Поднявши бы его, <person xml:id="A1"><persName>герой мой</persName></person> о пол тропнул;
+        Но счастием его иль действием чудес,
+        Сей тягости гайтан тогда не перенес,
+        И, перервавшися к геройской неугоде,
+        Оставил <person xml:id="B2"><persName>чумака</persName></person> за стойкой на свободе;
+        Которого уж <person xml:id="A1"><persName>он</persName></person> не мог оттоль поднять,
+        <person xml:id="A1"><persName>Он</persName></person> тако стал его отечески щунять:
+        «Коль мой кулак не мог вдохнуть в <person xml:id="B2"><persName>тебя</persName></person> боязни,
+        Грядущия вперед ты жди, <person xml:id="B2"><persName>мошенник</persName></person>, казни».
+
+        Когда сии слова <person xml:id="A1"><persName>герой сей</persName></person> говорил,
+        <person xml:id="E5"><persName>Капрал</persName></person> кабацку дверь внезапу отворил;
+        Над полицейским <person xml:id="E5"><persName>сей начальник</persName></person> был объездом,
+        Услыша в кабаке <person xml:id="E5"><persName>он</persName></person> шум тот мимоездом,
+        Хоть не был <person xml:id="B2"><persName>чумаку</persName></person> ни сват, ни брат, ни кум,
+        Вступился за <person xml:id="B2"><persName>него</persName></person>, спросил: «Какой здесь шум,
+        Не сделалось ли здесь меж кем какия драки?»
+        Тут все попятились задами вон, как раки,
+
+        Никто ответствовать на то ему не смел;
+        Но <person xml:id="E5"><persName>он</persName></person>, к несчастию, знать, острый взор имел,
+        Увидел <person xml:id="A1"><persName>ямщика</persName></person>, стояща очень смело,
+        «Я вижу, <person xml:id="A1"><persName>брат</persName></person>, — сказал, — твое, конечно, дело?
+        Конечно ты, <person xml:id="A1"><persName>сокол</persName></person>, кабак развоевал?»
+        Тогда <person xml:id="B2"><persName>чумак</persName></person> уж рот смеляе разевал.
+        Встает и без порток приходит ко <person xml:id="E5"><persName>капралу</persName></person>;
+        «Отмсти, — кричит, — отмсти, <person xml:id="E5"><persName>честной капрал</persName></person>, <person xml:id="A1"><persName>нахалу</persName></person>,
+        Который здесь меня, безвинного, прибил».
+        <person xml:id="E5"><persName>Капрал сей</persName></person> был угрюм и шуток не любил.
+        «Кто бил <person xml:id="B2"><persName>тебя</persName></person>? скажи!» — нахмурясь, вопрошает.
+        <person xml:id="B2"><persName>Чумак</persName></person> <person xml:id="E5"><persName>ему</persName></person> на то с слезами отвечает:
+        «<person xml:id="A1"><persName>Сей пьяница</persName></person> мои все ребра отломал, —
+        При сем на <person xml:id="A1"><persName>ямщика</persName></person> <person xml:id="B2"><persName>он</persName></person> пальцем указал. —
+        Наделал и казне и мне притом убытку;
+        И коль запрется <person xml:id="A1"><persName>он</persName></person>, готов терпеть я пытку;
+        Пивною чашею <person xml:id="A1"><persName>он</persName></person> лоб мне расколол
+        И изорвал на мне все порты и камзол».
+
+        Тогда явился вдруг <person xml:id="E5"><persName>капрал сам-друг</persName></person> с драгуном
+        И ре́знул <person xml:id="A1"><persName>ямщика</persName></person> <person xml:id="E5"><persName>он</persName></person> плетью, как перуном;
+        Хотя на ней столбец не очень толстый был,
+        Однако из руки капральской ярко бил.
+        <person xml:id="A1"><persName>Ямщик</persName></person> остолбенел, но с ног не повалился,
+        За то <person xml:id="E5"><persName>служивый сей</persName></person> и более озлился,
+        Что <person xml:id="E5"><persName>он</persName></person> не видывал такого мужика,
+        Которого б его не сшибла с ног рука;
+        Велел немедленно связать сего <person xml:id="A1"><persName>сего героя</persName></person>,
+        Который принужден отдаться был без боя.
+        Не храбрости <person xml:id="A1"><persName>ямщик</persName></person> иль силы не имел,
+        Но, знать, с полицией <person xml:id="A1"><persName>он</persName></person> ссориться не смел.
+        И бывшим вервием рукам его скрепленным,
+        Ведется абие в тюрьму военнопленным.
+
+        Тогда у <person xml:id="C3"><persName>Вакха</persName></person> весь надежды луч погас,
+        И во отчаяньи, как в море, <person xml:id="C3"><persName>он</persName></person> погряз;
+        Выходит из сего пияного жилища
+        Подобно так, как зверь, быв поднят с логовища,
+        И более <person xml:id="C3"><persName>он</persName></person> тут, не медля ни часа,
+        Поехал с дядькою своим на небеса;
+        Летит попрытче <person xml:id="C3"><persName>он</persName></person> царицы Амазонской,
+        Что вихри быстротой предупреждает конской,
+    </text>
+</TEI>
